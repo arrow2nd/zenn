@@ -1,0 +1,15 @@
+{
+  "name": "zenn",
+  "main": "index.js",
+  "author": "arrow2nd <44780846+arrow2nd@users.noreply.github.com>",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "license": "MIT",
+  "packageManager": "yarn@3.2.2",
+  "dependencies": {
+    "zenn-cli": "^0.1.116"
+  }
+}
