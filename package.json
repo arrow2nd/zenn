@@ -10,6 +10,6 @@
   "license": "MIT",
   "packageManager": "yarn@3.2.2",
   "dependencies": {
-    "zenn-cli": "^0.1.117"
+    "zenn-cli": "^0.1.125"
   }
 }
