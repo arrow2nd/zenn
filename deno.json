@@ -1,0 +1,11 @@
+{
+  "fmt": {
+    "files": {
+      "include": ["README.md", "articles/", "books/"]
+    },
+    "options": {
+      "lineWidth": 120,
+      "proseWrap": "preserve"
+    }
+  }
+}

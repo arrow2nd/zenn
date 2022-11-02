@@ -14,4 +14,3 @@ yarn new:book
 # プレビュー
 yarn preview
 ```
-
