@@ -150,9 +150,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@textlint/linter-formatter@npm:^12.2.3":
-  version: 12.2.3
-  resolution: "@textlint/linter-formatter@npm:12.2.3"
+"@textlint/linter-formatter@npm:^12.2.4":
+  version: 12.2.4
+  resolution: "@textlint/linter-formatter@npm:12.2.4"
   dependencies:
     "@azu/format-text": ^1.0.1
     "@azu/style-format": ^1.0.0
@@ -170,7 +170,7 @@ __metadata:
     table: ^6.8.1
     text-table: ^0.2.0
     try-resolve: ^1.0.1
-  checksum: c089a2ce73fabdc326c637fe53cc5a3fe9a2d9649ef3a2c11101df4d9e57165c20597e3a0a40b3f717df896f3b019c7dc7e4cbdb5a29d5e33bbe6ee9cf323779
+  checksum: bb9c6128487175a7851a96fe624bd43290596dabbe502c961c7594c3e5969e569dfbd988b842134d46f96161677ec0d5fd2668aa17b6a62ebff870a6815a6dd4
   languageName: node
   linkType: hard
 
@@ -2882,16 +2882,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"textlint@npm:^12.2.3":
-  version: 12.2.3
-  resolution: "textlint@npm:12.2.3"
+"textlint@npm:^12.2.4":
+  version: 12.2.4
+  resolution: "textlint@npm:12.2.4"
   dependencies:
     "@textlint/ast-node-types": ^12.2.2
     "@textlint/ast-traverse": ^12.2.3
     "@textlint/feature-flag": ^12.2.3
     "@textlint/fixer-formatter": ^12.2.3
     "@textlint/kernel": ^12.2.3
-    "@textlint/linter-formatter": ^12.2.3
+    "@textlint/linter-formatter": ^12.2.4
     "@textlint/module-interop": ^12.2.3
     "@textlint/textlint-plugin-markdown": ^12.2.3
     "@textlint/textlint-plugin-text": ^12.2.3
@@ -2915,7 +2915,7 @@ __metadata:
     unique-concat: ^0.2.2
   bin:
     textlint: bin/textlint.js
-  checksum: 26025a82ab7345ffe3f999afc3ee753e91eef02263491a68eaf1f41355f2418908ba389f7fda36dd30dcc1943d7fc503c18d9da1f9166caea0faa1b43c313900
+  checksum: bb339e3c844045a5b1bd93703cd40b3eb41f8e970508f8d096d702ed4b87ca0a31e745a3596aca2951cc6d55eeb008fd4894bce6106d35b703e8cea6a6291a2a
   languageName: node
   linkType: hard
 
@@ -3245,7 +3245,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "zenn@workspace:."
   dependencies:
-    textlint: ^12.2.3
+    textlint: ^12.2.4
     textlint-rule-preset-ja-technical-writing: ^7.0.0
     textlint-rule-preset-jtf-style: ^2.3.13
     zenn-cli: ^0.1.133
