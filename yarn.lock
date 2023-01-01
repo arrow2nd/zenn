@@ -3232,12 +3232,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zenn-cli@npm:^0.1.133":
-  version: 0.1.133
-  resolution: "zenn-cli@npm:0.1.133"
+"zenn-cli@npm:^0.1.134":
+  version: 0.1.134
+  resolution: "zenn-cli@npm:0.1.134"
   bin:
     zenn: dist/server/zenn.js
-  checksum: 50722c6d1daafb365fbd76359d6d4e654dd795ac0ba705fa4a1afe9d4102cdfb39088c343bf52fc5922980d279c3ffd404cbc3f366f661d570a9e44bc3797e2d
+  checksum: f64e76fc736920c9e7029c67935399213837fc4ef1136976d81b98c369f7c9c46526a5893e21e9a5dd4b6038e01b48986d22d3648292830d2fe5ae5039b48ec6
   languageName: node
   linkType: hard
 
@@ -3248,7 +3248,7 @@ __metadata:
     textlint: ^12.2.4
     textlint-rule-preset-ja-technical-writing: ^7.0.0
     textlint-rule-preset-jtf-style: ^2.3.13
-    zenn-cli: ^0.1.133
+    zenn-cli: ^0.1.134
   languageName: unknown
   linkType: soft
 
