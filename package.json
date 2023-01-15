@@ -10,7 +10,7 @@
   "license": "MIT",
   "packageManager": "yarn@3.2.2",
   "dependencies": {
-    "textlint": "^12.2.4",
+    "textlint": "^12.5.1",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0",
     "textlint-rule-preset-jtf-style": "^2.3.13",
     "zenn-cli": "^0.1.134"
