@@ -6,11 +6,11 @@
 
 ```sh
 # 記事の作成
-yarn new:article
+pnpm new:article
 
 # 本の作成
-yarn new:book
+pnpm new:book
 
 # プレビュー
-yarn preview
+pnpm preview
 ```
