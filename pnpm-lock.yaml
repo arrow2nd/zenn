@@ -16,7 +16,7 @@ dependencies:
     version: 2.3.14(textlint@14.2.0)
   zenn-cli:
     specifier: ^0.1.150
-    version: 0.1.155
+    version: 0.1.156
 
 devDependencies:
   prettier:
@@ -2312,8 +2312,8 @@ packages:
     engines: {node: '>=0.4'}
     dev: false
 
-  /zenn-cli@0.1.155:
-    resolution: {integrity: sha512-PqxeLWVrqSrGGPaMiNM5myJcbmXHh/Ur6EhzLkezrDZa5uJe1jfD6COVEnCtRf86Y5P0qy5bejXifSTNdDmqOA==}
+  /zenn-cli@0.1.156:
+    resolution: {integrity: sha512-3BU4PCl3xKxKIa0gtXRQqI037eIbCuQQGpV/jpA5WO8v5SeC32hPftyPrlqiiJJx9ORjNUA6I5XcFmgdEyi8dQ==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dev: false
